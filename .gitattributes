@@ -1,2 +1,2 @@
-# Dateien byte-genau speichern: Die .cmd-Dateien brauchen CRLF, die PowerShell-Skripte ihre UTF-8-BOM.
+# Store files byte-for-byte: .cmd files require CRLF, PowerShell scripts require their UTF-8 BOM.
 * -text
